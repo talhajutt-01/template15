@@ -1,0 +1,17 @@
+{
+            "images": {
+        "img1": "images/loading.gif",
+        "img2": "images/logo.png",
+        "img3": "images/banner_ing.jpg",
+        "img4": "images/banner_ing.jpg",
+        "img5": "images/banner_ing.jpg",
+        "img6": "images/weicon1.png",
+        "img7": "images/weicon2.png",
+        "img8": "images/weicon3.png",
+        "img9": "images/weicon4.png",
+        "img10": "images/about.png",
+        "img11": "images/blog1.jpg",
+        "img12": "images/blog3.jpg",
+        "img13": "images/blog3.jpg"
+    }
+}

@@ -68,6 +68,15 @@ const f14 = document.getElementById('f14');
 const f15 = document.getElementById('f15');
 const f16 = document.getElementById('f16');
 
+const g0 = document.getElementById('header');
+const g1 = document.getElementById('myCarousel');
+const g2 = document.getElementById('service');
+const g3 = document.getElementById('about');
+const g4 = document.getElementById('price');
+const g5 = document.getElementById('team');
+const g6 = document.getElementById('contact');
+const g7 = document.getElementById('footer');
+
 
 
 const img1 = document.getElementById('img1');
@@ -101,6 +110,11 @@ function updateContent(element, newValue) {
     // Update the src attribute of the image element
     imageElement.src = newSrc;
 }
+function updateBackgroundColor(element, newColor) {
+  // Update the background color for the element
+  element.style.backgroundColor = newColor;
+}
+
 
   
   // Fetch JSON data from the text file
@@ -181,6 +195,15 @@ function updateContent(element, newValue) {
             updateContent(f14, jsonData.footer.f14);
             updateContent(f15, jsonData.footer.f15);
             updateContent(f16, jsonData.footer.f16);
+
+            updateBackgroundColor(g0, jsonData.color.header);
+            updateBackgroundColor(g1, jsonData.color.myCarousel);
+            updateBackgroundColor(g2, jsonData.color.service);
+            updateBackgroundColor(g3, jsonData.color.about);
+            updateBackgroundColor(g4, jsonData.color.price);
+            updateBackgroundColor(g5, jsonData.color.team);
+            updateBackgroundColor(g6, jsonData.color.contact);
+            updateBackgroundColor(g6, jsonData.color.footer);
 
     
             updateImageSrc(img1, jsonData.images.img1);

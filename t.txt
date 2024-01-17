@@ -84,6 +84,16 @@
         "f15":"© 2019 All Rights Reserved. Design by",
         "f16":"Free Html Templates"
       },
+      "color":{
+        "header":"grey",
+        "myCarousel":"red",
+        "service":"red",
+        "about":"grey",
+        "price":"red",
+        "team":"grey",
+        "contact":"red",
+        "footer":"red"
+     },
 
         "images": {
         "img1": "images/loading.gif",
