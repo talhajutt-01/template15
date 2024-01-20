@@ -1,0 +1,141 @@
+{    "title": { 
+        "title": "Updated milina"
+    },
+
+    "nav": {
+        //another section all elements are link or buttons
+        "nav0": "home",
+        "nav1": "About",
+        "nav2": "What we do",
+        "nav3": "Pricing",
+        "nav4": "Contact US"
+    },
+
+     "banner": {
+        //another section all elements are text and b3,b7,b11 are buttons or link
+        "b0": "update 01/03",
+        "b1": "Milina nail Salon Creating Beauty",
+        "b2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo",
+        "b3": "Get Appoinment",
+        "b4": "01/03",
+        "b5": "Milina nail Salon Creating Beauty",
+        "b6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo",
+        "b7": "Get Appoinment",
+        "b8": "01/03",
+        "b9": "JMilina nail Salon Creating Beauty",
+        "b10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo",
+        "b11": "Get Appoinment"
+    },
+
+      "service" : {
+        //another section all elements are text 
+        "s0":"updated What We Do",
+        "s1":"updated Nail Art",
+        "s2":"Lorem ipsum dolor sit amet, consectetur ",
+        "s3":"Manicure",
+        "s4":"Lorem ipsum dolor sit amet, consectetur ",
+        "s5":"Pedicure",
+        "s6":"Lorem ipsum dolor sit amet, consectetur ",
+        "s7":"Paraffin wax",
+        "s8":"Lorem ipsum dolor sit amet, consectetur "
+     },
+
+     "about":{
+        //another section all elements are text  a2 is button
+        "a0":"update About Us",
+        "a1":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+        "a2":" Read More"
+     },
+     "price": {
+        //another section all elements are text 
+        "p0": "Updated Our Pricing",
+        "p1": "Regular",
+        "p2": "Lorem ipsum dolor sit amet, iscing elit, sed do magna",
+        "p3": "Standard",
+        "p4": "Lorem ipsum dolor sit amet, iscing elit, sed do magna",
+        "p5": "Premium",
+        "p6": "Lorem ipsum dolor sit amet, iscing elit, sed do magna"
+    },
+    "team" : {
+        //another section all elements are text t7 is button
+        "t0":"updated Meet Our Experts",
+        "t1":"updated Jacob",
+        "t2":"Lorem ipsum dolor sit amet, iscing elit, sed do magna",
+        "t3":"Lonut",
+        "t4":"Lorem ipsum dolor sit amet, iscing elit, sed do magna",
+        "t5":"Irina",
+        "t6":"Lorem ipsum dolor sit amet, iscing elit, sed do magna",
+        "t7":"Read More"
+     },
+     "contact":{ 
+        //another section all elements are text 
+        "c0":"Contact Us"
+     },
+
+      "footer":{
+        //another section all elements are text and f8,f9,f10,f11,f12 are link and f13 is button
+        "f0":"updatePassages of Lorem Ipsum available.",
+        "f1":"Call : +012334567890",
+        "f2":"demo@gmail.com",
+        "f3":"About",
+        "f4":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered le",
+        "f5":"Nail Salon",
+        "f6":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered le",
+        "f7":"Useful Link",
+        "f8":"Home",
+        "f9":"About",
+        "f10":"What we do",
+        "f11":"Pricing",
+        "f12":"Contact Us",
+        "f13":"Subscribe",
+        "f14":"There are many variations of passages",
+        "f15":"© 2019 All Rights Reserved. Design by",
+        "f16":"Free Html Templates"
+      },
+      "color":{
+        //another section to change color scheme of web diffrent section
+        "header":"grey",
+        "myCarousel":"red",
+        "service":"red",
+        "about":"grey",
+        "price":"red",
+        "team":"grey",
+        "contact":"red",
+        "footer":"red"
+     },
+
+        "images": {
+        //loader image at loader section
+        "img1": "images/loading.gif",
+
+        // logo image at headre
+        "img2": "images/logo.png",
+
+        //first banner image
+        "img3": "images/banner_ing.jpg",
+
+        // second banner image
+        "img4": "images/banner_ing.jpg",
+
+        // third banner image
+        "img5": "images/banner_ing.jpg",
+
+        //what we do section images
+        //1st
+        "img6": "images/weicon1.png",
+        //2nd
+        "img7": "images/weicon2.png",
+        //third
+        "img8": "images/weicon3.png",
+        //fourth
+        "img9": "images/weicon4.png",
+
+        //about section image 
+        "img10": "images/about.png",
+
+        //blog section images 
+        "img11": "images/blog1.jpg",
+        "img12": "images/blog3.jpg",
+        "img13": "images/blog3.jpg"
+    }
+}
