@@ -1,7 +1,7 @@
-{    "title": {
+{
+    "title": {
         "title": "Updated milina"
     },
-
     "nav": {
         "nav0": "home",
         "nav1": "About",
@@ -9,9 +9,8 @@
         "nav3": "Pricing",
         "nav4": "Contact US"
     },
-
-     "banner": {
-        "b0": "update 01/03",
+    "banner": {
+        "b0": "01/03",
         "b1": "Milina nail Salon Creating Beauty",
         "b2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo",
         "b3": "Get Appoinment",
@@ -24,26 +23,24 @@
         "b10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo",
         "b11": "Get Appoinment"
     },
-
-      "service" : {
-        "s0":"updated What We Do",
-        "s1":"updated Nail Art",
-        "s2":"Lorem ipsum dolor sit amet, consectetur ",
-        "s3":"Manicure",
-        "s4":"Lorem ipsum dolor sit amet, consectetur ",
-        "s5":"Pedicure",
-        "s6":"Lorem ipsum dolor sit amet, consectetur ",
-        "s7":"Paraffin wax",
-        "s8":"Lorem ipsum dolor sit amet, consectetur "
-     },
-
-     "about":{
-        "a0":"update About Us",
-        "a1":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
-        "a2":" Read More"
-     },
-     "price": {
-        "p0": "Updated Our Pricing",
+    "service": {
+        "s0": "What We Do",
+        "s1": "Nail Art",
+        "s2": "Lorem ipsum dolor sit amet, consectetur ",
+        "s3": "Manicure",
+        "s4": "Lorem ipsum dolor sit amet, consectetur ",
+        "s5": "Pedicure",
+        "s6": "Lorem ipsum dolor sit amet, consectetur ",
+        "s7": "Paraffin wax",
+        "s8": "Lorem ipsum dolor sit amet, consectetur "
+    },
+    "about": {
+        "a0": "About Us",
+        "a1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
+        "a2": "Read More"
+    },
+    "price": {
+        "p0": "Our Pricing",
         "p1": "Regular",
         "p2": "Lorem ipsum dolor sit amet, iscing elit, sed do magna",
         "p3": "Standard",
@@ -51,47 +48,46 @@
         "p5": "Premium",
         "p6": "Lorem ipsum dolor sit amet, iscing elit, sed do magna"
     },
-    "team" : {
-        "t0":"updated Meet Our Experts",
-        "t1":"updated Jacob",
-        "t2":"Lorem ipsum dolor sit amet, iscing elit, sed do magna",
-        "t3":"Lonut",
-        "t4":"Lorem ipsum dolor sit amet, iscing elit, sed do magna",
-        "t5":"Irina",
-        "t6":"Lorem ipsum dolor sit amet, iscing elit, sed do magna",
-        "t7":"Read More"
-     },
-     "contact":{
-        "c0":"Contact Us"
-     },
-
-      "footer":{
-        "f0":"updatePassages of Lorem Ipsum available.",
-        "f1":"Call : +012334567890",
-        "f2":"demo@gmail.com",
-        "f3":"About",
-        "f4":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered le",
-        "f5":"Nail Salon",
-        "f6":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered le",
-        "f7":"Useful Link",
-        "f8":"Home",
-        "f9":"About",
-        "f10":"What we do",
-        "f11":"Pricing",
-        "f12":"Contact Us",
-        "f13":"Subscribe",
-        "f14":"There are many variations of passages",
-        "f15":"© 2019 All Rights Reserved. Design by",
-        "f16":"Free Html Templates"
-      },
-      "color":{
-        "header":"grey",
-        "myCarousel":"red",
-        "service":"red",
-        "about":"grey",
-        "price":"red",
-        "team":"grey",
-        "contact":"red",
-        "footer":"red"
-     }
+    "team": {
+        "t0": "Meet Our Experts",
+        "t1": "Jacob",
+        "t2": "Lorem ipsum dolor sit amet, iscing elit, sed do magna",
+        "t3": "Lonut",
+        "t4": "Lorem ipsum dolor sit amet, iscing elit, sed do magna",
+        "t5": "Irina",
+        "t6": "Lorem ipsum dolor sit amet, iscing elit, sed do magna",
+        "t7": "Read More"
+    },
+    "contact": {
+        "c0": "Contact Us"
+    },
+    "footer": {
+        "f0": "Passages of Lorem Ipsum available.",
+        "f1": "Call : +012334567890",
+        "f2": "demo@gmail.com",
+        "f3": "About",
+        "f4": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered le",
+        "f5": "Nail Salon",
+        "f6": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered le",
+        "f7": "Useful Link",
+        "f8": "Home",
+        "f9": "About",
+        "f10": "What we do",
+        "f11": "Pricing",
+        "f12": "Contact Us",
+        "f13": "Subscribe",
+        "f14": "There are many variations of passages",
+        "f15": "© 2019 All Rights Reserved. Design by",
+        "f16": "Free Html Templates"
+    },
+    "color": {
+        "header": ".",
+        "myCarousel": ".",
+        "service": ".",
+        "about": ".",
+        "price": ".",
+        "team": ".",
+        "contact": ".",
+        "footer": "."
+    }
 }
